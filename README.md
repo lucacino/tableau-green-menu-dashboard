@@ -1,4 +1,4 @@
-# Tableau — Green Menu Dashboard 🌿
+# Tableau — Green Menu Dashboard
 
 > Analisi della carbon footprint degli alimenti per supportare un ristorante nella costruzione di un menù sostenibile, con dashboard interattiva su Tableau Public.
 
