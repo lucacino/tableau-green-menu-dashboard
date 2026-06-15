@@ -68,7 +68,7 @@ Un menù costruito su questi criteri non è solo più sostenibile: è anche una 
 
 ## Dashboard Tableau
 
-🔗 **[Visualizza la Dashboard su Tableau Public](INSERISCI_LINK)**
+🔗 **[Visualizza la Dashboard su Tableau Public](https://public.tableau.com/app/profile/luca.cino3966/viz/ProjectWork_17727413973090/Dashboard2)**
 
 La dashboard include:
 - Ranking emissioni totali per prodotto
